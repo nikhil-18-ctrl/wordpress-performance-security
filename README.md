@@ -56,6 +56,16 @@ and follows production-ready security architecture.
 - Security configurations are reusable for staging and production servers
 
 ---
+## Security Verification Screenshots
+
+### HTTP Security Headers
+![Security Headers](screenshots/header-devtools.png)
+
+### XML-RPC Protection
+![XML-RPC Blocked](screenshots/xml-rpc-blocked.png)
+
+### Brute-force Protection
+![Rate Limiting](screenshots/rate-limit-working.png)
 
 ## Author
 Geedi Nikhil
